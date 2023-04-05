@@ -1,0 +1,477 @@
+SYSTEM
+======
+
+Host name: DESKTOP-GIPGBGD
+IP-address: 192.168.65.225
+User name: DESKTOP-GIPGBGD\chaitu
+Description: 
+Operating system: Microsoft Windows 11 Pro (version 10.0.22621; build 22621)
+  Name: Microsoft Windows 11 Pro
+  Version: 10.0.22621
+  Build: 22621
+  Install date: 11-01-2023 11:56:52
+Windows product ID: 00330-80000-00000-AA237
+Windows product key: VK7JG-NPHTM-C97JM-9MPGT-3V66T
+Internet Explorer version: 11.1.22621.0
+Model: 81F4
+System type: x64-based PC
+Uptime: Uptime : 41 days, 23:57:16 (since 22-02-2023 10:14:48)
+BIOS: LENOVO (version: 7SCN27WW; date: 28-11-2018)
+  Manufacturer: LENOVO
+  Version: 7SCN27WW
+  Date: 28-11-2018
+Serial number: PF1LAA40
+Motherboard: LENOVO (LNVNB161216; version: SDK0Q55722 WIN)
+  Manufacturer: LENOVO
+  Product: LNVNB161216
+  Version: SDK0Q55722 WIN
+Chassis: Notebook
+Processor: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz (architecture: x64; 1801 MHz)
+  Name: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+  Manufacturer: GenuineIntel
+  Max clock speed: 1801 MHz
+  Architecture: x64
+  Level 2 cache size: 1024 KB
+  Socket type: U3E1
+  Version: 
+Physical memory: 7.9 GB
+Memory slot: 4.0 GB (BANK 0; form factor: SODIMM; memory type: Unknown)
+  Capacity: 4.0 GB
+  Device locator: ChannelA-DIMM0
+  Bank label: BANK 0
+  Form factor: SODIMM
+  Memory type: Unknown
+  Manufacturer: Micron
+  Speed: 2400 ns
+  Max capacity: 32.0 GB
+Memory slot: 4.0 GB (BANK 2; form factor: SODIMM; memory type: Unknown)
+  Capacity: 4.0 GB
+  Device locator: ChannelB-DIMM0
+  Bank label: BANK 2
+  Form factor: SODIMM
+  Memory type: Unknown
+  Manufacturer: Micron
+  Speed: 2400 ns
+  Max capacity: 32.0 GB
+Web Camera: Integrated Camera
+  Name: Integrated Camera
+  Manufacturer: Realtek
+  Description: Integrated Camera
+  Device ID: USB\VID_04F2&PID_B61E&MI_00\6&10400B6&0&0000
+Bitlocker: D: Protection Off
+Bitlocker: E: Protection Off
+Bitlocker: C: Protection Off
+Disk: ST1000LM035-1RK172 (931.5 GB)
+  Caption: ST1000LM035-1RK172
+  Serial number: WL1PQQ60
+  Size: 931.5 GB
+  Manufacturer: (Standard disk drives)
+  Interface type: IDE
+  Media type: Fixed hard disk media
+  Bytes per sector: 512
+  Heads: 255
+  Cylinders: 121601
+  Sectors: 1953520065
+  Tracks: 31008255
+Disk: Aarvex 128GB SSD (119.2 GB)
+  Caption: Aarvex 128GB SSD
+  Serial number: AA709359900000022229
+  Size: 119.2 GB
+  Manufacturer: (Standard disk drives)
+  Interface type: IDE
+  Media type: Fixed hard disk media
+  Bytes per sector: 512
+  Heads: 255
+  Cylinders: 15566
+  Sectors: 250067790
+  Tracks: 3969330
+Logical drive: C: (Local Fixed Disk; size: 118.0 GB; free space: 81.0 GB; file system: NTFS)
+  Name: C:
+  Description: Local Fixed Disk
+  Size: 118.0 GB
+  Free space: 81.0 GB
+  File system: NTFS
+  Serial number: 46A712D2
+  Network path: 
+Logical drive: D: (Local Fixed Disk; size: 95.5 GB; free space: 27.4 GB; file system: NTFS)
+  Name: D:
+  Description: Local Fixed Disk
+  Size: 95.5 GB
+  Free space: 27.4 GB
+  File system: NTFS
+  Serial number: 2A2E8CA2
+  Network path: 
+Logical drive: E: (Local Fixed Disk; size: 834.8 GB; free space: 691.2 GB; file system: NTFS)
+  Name: E:
+  Description: Local Fixed Disk
+  Size: 834.8 GB
+  Free space: 691.2 GB
+  File system: NTFS
+  Serial number: DCB988B0
+  Network path: 
+Video: Radeon 530 Series (xxb)
+  Name: Radeon 530 Series
+  Current horizontal resolution: 
+  Current vertical resolution: 
+  Current bits per pixel: 
+  Current refresh rate: 
+  Memory size: -2147483648.0 Bytes
+Video: Intel(R) UHD Graphics 620 (1920x1080x32b)
+  Name: Intel(R) UHD Graphics 620
+  Current horizontal resolution: 1920
+  Current vertical resolution: 1080
+  Current bits per pixel: 32
+  Current refresh rate: 60 Hz
+  Memory size: 1.0 GB
+Monitor: Unknown
+  Manufacturer: Asus
+  Serial number: 0
+  Manufacture date: 2016 week 0
+Printer: Send To OneNote 16
+  Name: Send To OneNote 16
+  Default printer: False
+  Network printer: False
+  Port name: nul:
+Printer: OneNote for Windows 10
+  Name: OneNote for Windows 10
+  Default printer: False
+  Network printer: False
+  Port name: Microsoft.Office.OneNote_16001.14326.21146.0_x64__8wekyb3d8bbwe_microsoft.onenoteim_S-1-5-21-2773362476-1051586583-824220726-1002
+Printer: Microsoft XPS Document Writer
+  Name: Microsoft XPS Document Writer
+  Default printer: False
+  Network printer: False
+  Port name: PORTPROMPT:
+Printer: Microsoft Print to PDF (default printer)
+  Name: Microsoft Print to PDF
+  Default printer: True
+  Network printer: False
+  Port name: PORTPROMPT:
+Printer: Fax
+  Name: Fax
+  Default printer: False
+  Network printer: False
+  Port name: SHRFAX:
+Multimedia: Realtek High Definition Audio
+  Name: Realtek High Definition Audio
+  Manufacturer: Realtek
+Multimedia: Intel(R) Display Audio
+  Name: Intel(R) Display Audio
+  Manufacturer: Intel(R) Corporation
+Network adapter: Qualcomm Atheros QCA9377 Wireless Network Adapter
+  Adapter type: Ethernet 802.3
+  Net connection status: Connected
+  Manufacturer: Qualcomm Atheros Communications Inc.
+  Speed: 108.3 Mbps
+  Adapter IP-address: 192.168.65.225
+  Adapter MAC-address: F8:A2:D6:EE:9C:E7
+  DHCP enabled: True
+  DHCP server: 192.168.65.2
+  DNS domain: 
+  WINS primary server: 
+  WINS secondary server: 
+Network adapter: Bluetooth Device (Personal Area Network)
+  Adapter type: Ethernet 802.3
+  Net connection status: Media disconnected
+  Manufacturer: Microsoft
+  Speed: 3.0 Mbps
+  Adapter IP-address: 
+  Adapter MAC-address: F8:A2:D6:EE:9C:E8
+  DHCP enabled: True
+  DHCP server: 
+  DNS domain: 
+  WINS primary server: 
+  WINS secondary server: 
+Local account: DESKTOP-GIPGBGD\Administrator
+  Caption: DESKTOP-GIPGBGD\Administrator
+  Name: Administrator
+  Domain: DESKTOP-GIPGBGD
+  Description: Built-in account for administering the computer/domain
+  SID: S-1-5-21-2773362476-1051586583-824220726-500
+  Disabled: True
+Local account: DESKTOP-GIPGBGD\chaitu
+  Caption: DESKTOP-GIPGBGD\chaitu
+  Name: chaitu
+  Domain: DESKTOP-GIPGBGD
+  Description: 
+  SID: S-1-5-21-2773362476-1051586583-824220726-1002
+  Disabled: False
+Local account: DESKTOP-GIPGBGD\DefaultAccount
+  Caption: DESKTOP-GIPGBGD\DefaultAccount
+  Name: DefaultAccount
+  Domain: DESKTOP-GIPGBGD
+  Description: A user account managed by the system.
+  SID: S-1-5-21-2773362476-1051586583-824220726-503
+  Disabled: True
+Local account: DESKTOP-GIPGBGD\Guest
+  Caption: DESKTOP-GIPGBGD\Guest
+  Name: Guest
+  Domain: DESKTOP-GIPGBGD
+  Description: Built-in account for guest access to the computer/domain
+  SID: S-1-5-21-2773362476-1051586583-824220726-501
+  Disabled: True
+Local account: DESKTOP-GIPGBGD\WDAGUtilityAccount
+  Caption: DESKTOP-GIPGBGD\WDAGUtilityAccount
+  Name: WDAGUtilityAccount
+  Domain: DESKTOP-GIPGBGD
+  Description: A user account managed and used by the system for Windows Defender Application Guard scenarios.
+  SID: S-1-5-21-2773362476-1051586583-824220726-504
+  Disabled: True
+Share: ADMIN$ (Remote Admin)
+  Name: ADMIN$
+  Caption: Remote Admin
+  Path: C:\WINDOWS
+  Type: Disk Drive Admin
+Share: C$ (Default share)
+  Name: C$
+  Caption: Default share
+  Path: C:\
+  Type: Disk Drive Admin
+Share: D$ (Default share)
+  Name: D$
+  Caption: Default share
+  Path: D:\
+  Type: Disk Drive Admin
+Share: E$ (Default share)
+  Name: E$
+  Caption: Default share
+  Path: E:\
+  Type: Disk Drive Admin
+Share: IPC$ (Remote IPC)
+  Name: IPC$
+  Caption: Remote IPC
+  Path: 
+  Type: IPC Admin
+System hotfix: KB5012170 - Security Update
+System hotfix: KB5020880 - Update
+System hotfix: KB5022610 - Update
+System hotfix: KB5022845 - Security Update
+Startup: DESKTOP-GIPGBGD\chaitu: OneDrive ("C:\Users\pedas\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background)
+  Name: OneDrive
+  Command: "C:\Users\pedas\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+  Location: HKU\S-1-5-21-2773362476-1051586583-824220726-1002\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: DESKTOP-GIPGBGD\chaitu
+Startup: DESKTOP-GIPGBGD\chaitu: Discord ("C:\Users\pedas\AppData\Local\Discord\Update.exe" --processStart Discord.exe)
+  Name: Discord
+  Command: "C:\Users\pedas\AppData\Local\Discord\Update.exe" --processStart Discord.exe
+  Location: HKU\S-1-5-21-2773362476-1051586583-824220726-1002\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: DESKTOP-GIPGBGD\chaitu
+Startup: DESKTOP-GIPGBGD\chaitu: MicrosoftEdgeAutoLaunch_59CC981D2EFECC9C7FEB1182BEB7E926 ("C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5)
+  Name: MicrosoftEdgeAutoLaunch_59CC981D2EFECC9C7FEB1182BEB7E926
+  Command: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start /prefetch:5
+  Location: HKU\S-1-5-21-2773362476-1051586583-824220726-1002\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: DESKTOP-GIPGBGD\chaitu
+Startup: Public: SecurityHealth (%windir%\system32\SecurityHealthSystray.exe)
+  Name: SecurityHealth
+  Command: %windir%\system32\SecurityHealthSystray.exe
+  Location: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: Public
+Startup: Public: RtkAudUService ("C:\Windows\System32\RtkAudUService64.exe" -background)
+  Name: RtkAudUService
+  Command: "C:\Windows\System32\RtkAudUService64.exe" -background
+  Location: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  User: Public
+
+
+SOFTWARE
+========
+
+AccessData FTK Imager, Version: 3.1.2.0, Publisher: AccessData, Install date: 2023-03-29, Size: 77.7 MB
+Brave, Version: 111.1.49.132, Publisher: Brave Software Inc, Install date: 2023-04-03
+Discord, Version: 1.0.9010, Publisher: Discord Inc., Install date: 2023-27-01, Size: 78.5 MB
+ETS Online Test 1.0, Version: 1.0, Publisher: ETS
+Git, Version: 2.39.2, Publisher: The Git Development Community, Install date: 2023-02-27, Size: 293.3 MB
+Google Chrome, Version: 111.0.5563.147, Publisher: Google LLC, Install date: 2023-04-03
+Microsoft ASP.NET MVC 2, Version: 2.0.60926.0, Publisher: Microsoft Corporation, Install date: 2023-01-16, Size: 850.0 KB
+Microsoft Edge WebView2 Runtime, Version: 111.0.1661.62, Publisher: Microsoft Corporation, Install date: 2023-04-03
+Microsoft Edge, Version: 111.0.1661.62, Publisher: Microsoft Corporation, Install date: 2023-04-03
+Microsoft Office Professional Plus 2016, Version: 16.0.4266.1001, Product key: WFG99 (Last 5 characters of product key), Publisher: Microsoft Corporation
+Microsoft Office Project Professional 2007, Version: 12.0.6612.1000, Product key: HCFPT-K86VV-DCKH3-87CCR-FM6HW, Publisher: Microsoft Corporation, Install date: 2023-02-22
+Microsoft OneDrive, Version: 23.048.0305.0002, Publisher: Microsoft Corporation, Size: 272.2 MB
+Microsoft Update Health Tools, Version: 5.69.0.0, Publisher: Microsoft Corporation, Install date: 2023-01-30, Size: 1.0 MB
+Update for Windows 10 for x64-based Systems (KB5001716), Version: 4.91.0.0, Publisher: Microsoft Corporation, Install date: 2022-07-09, Size: 812.0 KB
+VLC media player, Version: 3.0.11, Publisher: VideoLAN
+WhatsApp Web, Version: 1.0, Publisher: Google\Chrome, Install date: 2023-03-22
+Windows PC Health Check, Version: 3.6.2204.08001, Publisher: Microsoft Corporation, Install date: 2022-07-09, Size: 11.7 MB
+Windows Subsystem for Linux Update, Version: 5.10.102.1, Publisher: Microsoft Corporation, Install date: 2023-01-20, Size: 41.3 MB
+Windows Subsystem for Linux WSLg Preview, Version: 1.0.27, Publisher: Microsoft Corporation, Install date: 2023-02-20, Size: 343.2 MB
+
+
+PROCESSES
+=========
+
+AdminService.exe (C:\WINDOWS\System32\drivers\AdminService.exe)
+AggregatorHost.exe (C:\WINDOWS\System32\AggregatorHost.exe)
+ApplicationFrameHost.exe (C:\WINDOWS\system32\ApplicationFrameHost.exe)
+atieclxx.exe (C:\WINDOWS\System32\DriverStore\FileRepository\u0360470.inf_amd64_35c64671e7fac064\B360357\atieclxx.exe)
+atiesrxx.exe (C:\WINDOWS\System32\DriverStore\FileRepository\u0360470.inf_amd64_35c64671e7fac064\B360357\atiesrxx.exe)
+audiodg.exe (C:\WINDOWS\system32\AUDIODG.EXE)
+backgroundTaskHost.exe (C:\WINDOWS\system32\backgroundTaskHost.exe)
+brave.exe (C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe)
+brave.exe (C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe)
+brave.exe (C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe)
+brave.exe (C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe)
+brave.exe (C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe)
+brave.exe (C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe)
+brave.exe (C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe)
+brave.exe (C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe)
+brave.exe (C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe)
+brave.exe (C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe)
+BraveCrashHandler.exe (C:\Program Files (x86)\BraveSoftware\Update\1.3.361.133\BraveCrashHandler.exe)
+BraveCrashHandler64.exe (C:\Program Files (x86)\BraveSoftware\Update\1.3.361.133\BraveCrashHandler64.exe)
+BraveUpdate.exe (C:\Program Files (x86)\BraveSoftware\Update\BraveUpdate.exe)
+ctfmon.exe (C:\WINDOWS\system32\ctfmon.exe)
+dasHost.exe (C:\WINDOWS\system32\dashost.exe)
+DAX3API.exe (C:\WINDOWS\system32\dolbyaposvc\DAX3API.exe)
+DAX3API.exe (C:\WINDOWS\system32\dolbyaposvc\DAX3API.exe)
+dllhost.exe (C:\WINDOWS\system32\DllHost.exe)
+dwm.exe (C:\WINDOWS\System32\dwm.exe)
+esif_uf.exe (C:\WINDOWS\System32\Intel\DPTF\esif_uf.exe)
+explorer.exe (C:\WINDOWS\Explorer.EXE)
+FMService64.exe (C:\WINDOWS\System32\FMService64.exe)
+fontdrvhost.exe (C:\WINDOWS\system32\fontdrvhost.exe)
+fontdrvhost.exe (C:\WINDOWS\System32\fontdrvhost.exe)
+freepcaudit.exe (C:\Users\pedas\Desktop\freepcaudit.exe)
+GoogleCrashHandler.exe (C:\Program Files (x86)\Google\Update\1.3.36.152\GoogleCrashHandler.exe)
+GoogleCrashHandler64.exe (C:\Program Files (x86)\Google\Update\1.3.36.152\GoogleCrashHandler64.exe)
+GoogleUpdate.exe (C:\Program Files (x86)\Google\Update\GoogleUpdate.exe)
+igfxCUIService.exe (C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_afbf41cf8ab202d7\igfxCUIService.exe)
+igfxEM.exe (C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_afbf41cf8ab202d7\igfxEM.exe)
+IntelCpHDCPSvc.exe (C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_08c6076a1ac36ac6\IntelCpHDCPSvc.exe)
+IntelCpHeciSvc.exe (C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_08c6076a1ac36ac6\IntelCpHeciSvc.exe)
+LocationNotificationWindows.exe (C:\WINDOWS\System32\LocationNotificationWindows.exe)
+lsass.exe (C:\WINDOWS\system32\lsass.exe)
+MoUsoCoreWorker.exe (C:\WINDOWS\uus\AMD64\MoUsoCoreWorker.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedge.exe (C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.62\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.62\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.62\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.62\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.62\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.62\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.62\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.62\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.62\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.62\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.62\msedgewebview2.exe)
+msedgewebview2.exe (C:\Program Files (x86)\Microsoft\EdgeWebView\Application\111.0.1661.62\msedgewebview2.exe)
+msteams.exe (C:\Program Files\WindowsApps\MicrosoftTeams_23062.1103.1944.2725_x64__8wekyb3d8bbwe\msteams.exe)
+msteamsupdate.exe (C:\Program Files\WindowsApps\MicrosoftTeams_23062.1103.1944.2725_x64__8wekyb3d8bbwe\msteamsupdate.exe)
+PhoneExperienceHost.exe (C:\Program Files\WindowsApps\Microsoft.YourPhone_1.23022.140.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe)
+RtkAudUService64.exe (C:\WINDOWS\System32\RtkAudUService64.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+RuntimeBroker.exe (C:\Windows\System32\RuntimeBroker.exe)
+SearchHost.exe (C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe)
+SearchIndexer.exe (C:\WINDOWS\system32\SearchIndexer.exe)
+ShellExperienceHost.exe (C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe)
+sihost.exe (C:\WINDOWS\system32\sihost.exe)
+smartscreen.exe (C:\Windows\System32\smartscreen.exe)
+spoolsv.exe (C:\WINDOWS\System32\spoolsv.exe)
+StartMenuExperienceHost.exe (C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\system32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+svchost.exe (C:\WINDOWS\System32\svchost.exe)
+SystemSettings.exe (C:\Windows\ImmersiveControlPanel\SystemSettings.exe)
+SystemSettingsBroker.exe (C:\Windows\System32\SystemSettingsBroker.exe)
+taskhostw.exe (C:\WINDOWS\system32\taskhostw.exe)
+TiWorker.exe (C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.22621.1190_none_e96e8ff442c0dfc3\TiWorker.exe)
+TrustedInstaller.exe (C:\WINDOWS\servicing\TrustedInstaller.exe)
+UserOOBEBroker.exe (C:\Windows\System32\oobe\UserOOBEBroker.exe)
+Widgets.exe (C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_423.5900.0.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe)
+WidgetService.exe (C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_423.5900.0.0_x64__cw5n1h2txyewy\Dashboard\widgetservice.exe)
+winlogon.exe (C:\WINDOWS\System32\WinLogon.exe)
+WmiPrvSE.exe (C:\WINDOWS\system32\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\system32\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\system32\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\sysWOW64\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\sysWOW64\wbem\wmiprvse.exe)
+WmiPrvSE.exe (C:\WINDOWS\sysWOW64\wbem\wmiprvse.exe)
+WUDFHost.exe (C:\Windows\System32\WUDFHost.exe)
